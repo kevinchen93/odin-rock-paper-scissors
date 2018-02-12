@@ -7,7 +7,7 @@ This is a project from [The Odin Project](https://www.theodinproject.com/courses
 
 ## Pre-Project Thoughts
 
-Note: At this point I only have basic HTML, CSS, Chrome Dev Tool, and Git skills.
+Note: At this point I only have basic HTML, CSS, Chrome Dev Tools, and Git skills.
 I will do my best!
 
 ## Post-Project Thoughts
