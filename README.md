@@ -1,6 +1,6 @@
 # Rock Paper Scissors Project
 
-This purpose of this project was to rebuild the classic rock-paper-scissors and play against the computer.
+This purpose of this project was to rebuild the classic rock-paper-scissors game and play against the computer.
 
 This is a project from [The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors).
 
